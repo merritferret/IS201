@@ -1,0 +1,36 @@
+/* Style definition 1 */
+#div1 {
+    background-color: #db34ae;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Font family */
+}
+
+/* Style definition 2 */
+#div2 {
+    background-color: #2ec7cc;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Helvetica', sans-serif; /* Font family */
+}
+
+/* Style definition 3 */
+#div3 {
+    background-color: #e7833c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Verdana', sans-serif; /* Font family */
+}
+
+/* Style definition 4 */
+.custom-text {
+    color: #333; /* Font color */
+    font-family: 'Georgia', serif; /* Font family */
+    font-size: 18px;
+    text-decoration: underline;
+}
